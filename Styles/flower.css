@@ -37,6 +37,9 @@ padding-right: 10px;
     position: bottom right;
     width: 800px;
     
+
+
+    
 }
 
 .header-item{
@@ -151,8 +154,31 @@ section{
 
 
 .new{
-    margin-left: 30px;
+    margin-left: 40px;
     background-repeat: no repeat;
     background-image: url("../Styles/images/Rectangle\ 9.png");
     background-repeat: no-repeat;
+    padding-bottom: 60px;
+    margin-bottom: 100px;
 }
+
+.footer{
+    width:1500px;
+    background-color: #111010;
+    padding-bottom: 150px; 
+}
+
+.footer h1{
+    padding-top: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.footer p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding:2px 2px 2px 2px;
+}
+.footer p> .last{
+    opacity: 50%;
+}
+
+

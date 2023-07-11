@@ -1,21 +1,14 @@
-.header{
-    
-}
 
 .header{
-    font-family: 'Lato', sans-serif;
-    font-family: 'Open Sans', sans-serif;
-
+    margin-bottom: 200px;
 }
-
-
 .item1{
     margin: 250px 486px 182.5px 120px;
     color: #272727;
     font-family: Lato;
     font-style: normal;
     line-height: normal;
-    width: 708px;
+    width: 500px;
 }
 
 .header-description{
@@ -41,6 +34,8 @@ padding-right: 10px;
 
 .header-profile{
     max-width: 635px;
+    position: bottom right;
+    width: 800px;
     
 }
 
@@ -141,7 +136,8 @@ main{
 .main-flowers{
     display: flex;
     justify-content: space-around;
-   
+    margin-left: 70px;
+    margin-right: 70px;
     
 }
 
@@ -150,5 +146,13 @@ main{
 }
 
 section{
-    margin-top:50px;
+    margin-top:200px;
+}
+
+
+.new{
+    margin-left: 30px;
+    background-repeat: no repeat;
+    background-image: url("../Styles/images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
 }

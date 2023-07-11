@@ -1,0 +1,118 @@
+.header{
+    max-width: 1920PX;
+}
+
+.header{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+
+.item1{
+    margin: 250px 486px 182.5px 120px;
+    color: #272727;
+    font-family: Lato;
+    font-style: normal;
+    line-height: normal;
+    width: 708px;
+}
+
+.header-description{
+color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-style: normal;
+/* margin: 258px 523px 121px 120px; */
+margin: 517px 1046px 143px 240px;
+padding-right: 10px;
+
+}
+
+.btn-header{
+    text-align: center;
+    color: #FFF;
+    font-family: Lato;
+    font-style: normal;
+    line-height: normal;
+    padding:20px 40px 20px 40px;
+    border-radius: 8px;
+    background: #E55473;
+    
+
+}
+
+.header-profile{
+    max-width: 635px;
+    
+}
+
+.header-item{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+.header{
+   background-color: #FCEDF0;
+    background-position:center
+}
+
+.flower-types{
+    text-align: center;
+}
+
+.first-type{
+    background-color: #F2DEE8;
+    
+}
+
+.second-type{
+    background-color: #D7EDEE; 
+
+}
+.third-type{
+    background-color: #E4ECDC;
+    
+
+}
+
+.three-types{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.three-types img{
+    padding-bottom: 0px;
+    padding:60px 60px 0px 60px; 
+    
+}
+
+.names> ol{
+    list-style: none;
+    
+}
+
+.same{
+    max-width: 1500px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+  
+
+}
+
+.btn{
+    text-align: center;
+    background-color: white;
+    border: none;
+    
+    
+}
+
+
+
+
